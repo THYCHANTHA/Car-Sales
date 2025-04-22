@@ -1,6 +1,4 @@
-# Car Sales Website Clone
-
-This project is a full clone of the website https://www.mykhmercar.com built with PHP and MySQL.
+# Car Sales Website 
 
 ## Features
 - Car listings with search and filter functionality
