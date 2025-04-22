@@ -1,0 +1,26 @@
+/* Common styles for the entire site */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9fafb;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+button {
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
